@@ -4,6 +4,10 @@
 For more details check root [BitcoinZ repository](https://github.com/bitcoinz-pod/bitcoinz) 
 
 ### Windows
+
+- Download Windows release binary [here](https://github.com/bitcoinz-pod/bitcoinz-win/releases)
+
+- Build binaries (tested in Ubuntu 16.04)
 Get dependencies
 ```{r, engine='bash'}
 sudo apt-get install \
