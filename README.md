@@ -1,11 +1,7 @@
 ![BTZ](https://raw.githubusercontent.com/wiki/bitcoinz-pod/bitcoinz/BitcoinZ.png)
 
 # BitcoinZ - Your Financial Freedom
-Community gift to the World.
-
 For more details check root [BitcoinZ repository](https://github.com/bitcoinz-pod/bitcoinz) 
-
-### Windows
 
 ### Windows
 Get dependencies
