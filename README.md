@@ -7,6 +7,8 @@ For more details check root [BitcoinZ repository](https://github.com/bitcoinz-po
 
 - Download Windows release binary [here](https://github.com/bitcoinz-pod/bitcoinz-win/releases)
 
+or
+
 - Build binaries (tested in Ubuntu 16.04)
 Get dependencies
 ```{r, engine='bash'}
