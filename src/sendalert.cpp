@@ -88,8 +88,8 @@ void ThreadSendAlert()
     //  4000 or higher will put the RPC into safe mode
     alert.nPriority     = 1500;
     alert.strComment    = "";
-    alert.strStatusBar  = "Your client is out of date and potentially vulnerable to denial of service. Please update to the most recent version of Zcash (1.0.5). More info at: https://z.cash/support/security.html";
-    alert.strRPCError   = "Your client is out of date and potentially vulnerable to denial of service. Please update to the most recent version of Zcash (1.0.5). More info at: https://z.cash/support/security.html";
+    alert.strStatusBar  = "Your client is out of date and potentially vulnerable to denial of service. Please update to the most recent version of BitcoinZ (1.0.5). More info at: https://z.cash/support/security.html";
+    alert.strRPCError   = "Your client is out of date and potentially vulnerable to denial of service. Please update to the most recent version of BitcoinZ (1.0.5). More info at: https://z.cash/support/security.html";
 
     // Set specific client version/versions here. If setSubVer is empty, no filtering on subver is done:
     // alert.setSubVer.insert(std::string("/MagicBean:0.7.2/"));

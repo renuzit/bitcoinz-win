@@ -19,7 +19,7 @@
  * for both bitcoind and bitcoin-core, to make it harder for attackers to
  * target servers or GUI users specifically.
  */
-const std::string CLIENT_NAME("KSC"); // No Taxation without Representation
+const std::string CLIENT_NAME("KSCW"); // No Taxation without Representation
 
 /**
  * Client version number
