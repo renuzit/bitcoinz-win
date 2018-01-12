@@ -1,5 +1,3 @@
-![BTCZ](https://raw.githubusercontent.com/wiki/bitcoinz-pod/bitcoinz/BitcoinZ.png)
-
 # BitcoinZ - Your Financial Freedom
 For more details check root [BitcoinZ repository](https://github.com/bitcoinz-pod/bitcoinz) 
 
