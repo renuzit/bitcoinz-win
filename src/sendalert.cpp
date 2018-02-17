@@ -76,9 +76,9 @@ void ThreadSendAlert()
     alert.nCancel       = 0;   // cancels previous messages up to this ID number
 
     // These versions are protocol versions
-    // 170002 : 1.0.0
+    // 770002 : 1.0.0
     alert.nMinVer       = 170002;
-    alert.nMaxVer       = 170002;
+    alert.nMaxVer       = 770002;
 
     //
     // main.cpp: 
